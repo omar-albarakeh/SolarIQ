@@ -17,3 +17,26 @@ Our AI-powered  " SOLARIQ " Solar App revolutionizes your solar experience.
 - Community Forum: Connect with solar enthusiasts and share insights.
 
 <br><br>
+### User Stories
+
+### Homeowner
+- As a homeowner, I want to monitor my solar panel performance in real-time to optimize energy usage .
+- As a homeowner, I want to receive weather-based energy predictions so that I can plan my energy consumption efficiently.
+- As a homeowner, I want AI-driven advice on optimizing my solar setup to ensure I’m getting the most out of my system.
+
+### Business
+- As a business, I want to track the energy production and storage of our solar system to minimize operational costs.
+- As a business, I want real-time battery health tracking so that I can prevent downtimes caused by faulty storage systems.
+- As a business, I want access to a solar marketplace to source high-quality solar equipment and services.
+
+### Solar Professional
+- As a solar professional, I want to connect with other professionals and enthusiasts to exchange insights and grow my network.
+- As a solar professional, I want access to a community forum where I can offer advice and learn from others.
+- As a solar professional, I want to recommend optimal solar setups to clients using AI-driven insights.
+
+#### Admin
+
+- As an admin, I want to oversee users and their activities to maintain a secure and user-friendly platform.
+- As an admin, I want to manage marketplace listings and ensure quality standards are met.
+- As an admin, I want to monitor live chat support interactions to enhance the user experience.
+<br><br>
