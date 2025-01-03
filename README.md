@@ -53,3 +53,12 @@ Our AI-powered  " SOLARIQ " Solar App revolutionizes your solar experience.
 - OpenAI API: To power the AI solar advisor, delivering personalized energy insights and recommendations.
 
 <br><br>
+
+
+<img src="./readme/title4.svg"/>
+<img src="./readme/title5.svg"/>
+<img src="./readme/title6.svg"/>
+<img src="./readme/title7.svg"/>
+<img src="./readme/title8.svg"/>
+<img src="./readme/title9.svg"/>
+<img src="./readme/title10.svg"/>
