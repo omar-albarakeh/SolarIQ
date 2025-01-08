@@ -41,8 +41,8 @@
 
 ### SOLARIQ is built using the following technologies:
 
-- Flutter: [Flutter app development framework](https://github.com/omar-albarakeh/solariqflutter.git).To develop a dynamic and responsive mobile application with seamless cross-platform performance.
-- Node.js with NestJS: For a robust and scalable backend architecture, ensuring efficient API management and business logic.
+- Flutter: [Flutter app development framework](https://flutter.dev/).To develop a dynamic and responsive mobile application with seamless cross-platform performance.
+- Node.js with NestJS: [Flutter app development framework](https://nestjs.com/) For a robust and scalable backend architecture, ensuring efficient API management and business logic.
 - OpenWeather API: For providing weather-based energy forecasts to optimize solar energy usage.
 - OpenAI API: To power the AI solar advisor, delivering personalized energy insights and recommendations.
 
