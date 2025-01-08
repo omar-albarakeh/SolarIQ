@@ -50,6 +50,10 @@
 
 
 <img src="./readme/title4.svg"/>
+> We designed SOLARIQ using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
+
+- Project Figma design [figma](https://www.figma.com/design/5H9Fa6QPBZsvvb9nZchmTV/Untitled?t=n2Z8NsetSEEd6VQz-1)
+
 <img src="./readme/title5.svg"/>
 <img src="./readme/title6.svg"/>
 <img src="./readme/title7.svg"/>
