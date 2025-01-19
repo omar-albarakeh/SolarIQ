@@ -4,6 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/omar-albarakeh/solariqflutter.git
-[submodule "path/to/submodule"]
-	path = path/to/submodule
+[submodule "Solar-IQ-React"]
+	path = Solar-IQ-React
 	url = https://github.com/omar-albarakeh/Solar-IQ-React.git
