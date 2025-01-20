@@ -56,6 +56,22 @@ We designed SOLARIQ using wireframes and mockups, iterating on the design until 
 
 <img src="./readme/title5.svg"/>
 <img src="./readme/title6.svg"/>
+
+### User Screens (Mobile)
+| Login screen  | Register screen | Landing screen |
+| ---| ---| ---|
+| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600)
+| Home screen  | Menu Screen | Order Screen | Checkout Screen |
+| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600)
+
+### Admin Screens (Web)
+| Login screen  | Register screen |  Landing screen |
+| ---| ---| ---|
+| ![Landing]("./readme/gif/signupscreen.gif") | ![fsdaf](./readme/demo/1440x1024.png) |
+| Home screen  | Menu Screen | Order Screen |
+| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+
+<br><br>
 <img src="./readme/title7.svg"/>
 <img src="./readme/title8.svg"/>
 <img src="./readme/title9.svg"/>
