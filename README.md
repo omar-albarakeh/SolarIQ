@@ -55,6 +55,8 @@ We designed SOLARIQ using wireframes and mockups, iterating on the design until 
 - Project Figma design [figma](https://www.figma.com/design/5H9Fa6QPBZsvvb9nZchmTV/Untitled?t=n2Z8NsetSEEd6VQz-1)
 
 <img src="./readme/title5.svg"/>
+This JSON format presents a modular representation of MongoDB schemas, showcasing User, Cart, SolarInfo, and Item models with enhanced clarity, descriptions, and references for relationships
+<img src="readme/code.png"/>
 <img src="./readme/title6.svg"/>
 
 ### User Screens (Mobile)
@@ -79,5 +81,6 @@ We designed SOLARIQ using wireframes and mockups, iterating on the design until 
 | ---| ---|
 | ![Landing](readme/gif/update-item.gif) | ![fsdaf](readme/gif/delete-item3.gif) |
 
+<img src="readme/IOT-project.png"/>
 <br><br>
 <img src="./readme/title10.svg"/>
