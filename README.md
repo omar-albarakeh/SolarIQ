@@ -58,18 +58,26 @@ We designed SOLARIQ using wireframes and mockups, iterating on the design until 
 <img src="./readme/title6.svg"/>
 
 ### User Screens (Mobile)
-| Login screen  | Register screen | Landing screen |
+| Login screen  | Register screen | Solarinfo Form |
 | ---| ---| ---|
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600)
-| Home screen  | Menu Screen | Order Screen | Checkout Screen |
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600)
+| ![Login screen](readme/gif/signin.gif) | ![Register screen](readme/gif/signupscreen1.gif) | ![Solarinfo Form](readme/gif/solarinfo2.gif)
+| Battery Life Tracking | Real Time Monitoring | Weather Power Prediction |
+| ![Battery Life Tracking](readme/gif/batterylife.gif) | ![fsdaf](readme/gif/realtime2.gif) | ![fsdaf](readme/gif/weather.gif)
+| Community | Market | ChatBot |
+| ![Battery Life Tracking](readme/gif/community2.gif) | ![fsdaf](readme/gif/market2.gif) | ![fsdaf](readme/gif/chatbot.gif)
+| ChatBot Form |
+| ![Battery Life Tracking](readme/gif/chatbotform.gif) 
 
 ### Admin Screens (Web)
-| Login screen  | Register screen |  Landing screen |
-| ---| ---| ---|
-| ![Landing]("./readme/gif/signupscreen.gif") | ![fsdaf](./readme/demo/1440x1024.png) |
-| Home screen  | Menu Screen | Order Screen |
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| Login screen  | Register screen |  
+| ---| ---|
+| ![Landing](readme/gif/loginscreen.gif) | ![fsdaf](readme/gif/signupscreen.gif) |
+| User-panel  |   Create-item |
+| ---| ---|
+| ![Landing](readme/gif/user-panel.gif) | ![fsdaf](readme/gif/create-item.gif) |
+| Update-item | Delete-item |
+| ---| ---|
+| ![Landing](readme/gif/update-item.gif) | ![fsdaf](readme/gif/delete-item.gif) |
 
 <br><br>
 <img src="./readme/title7.svg"/>
