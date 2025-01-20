@@ -77,7 +77,7 @@ We designed SOLARIQ using wireframes and mockups, iterating on the design until 
 | ![Landing](readme/gif/user-panel.gif) | ![fsdaf](readme/gif/create-item.gif) |
 | Update-item | Delete-item |
 | ---| ---|
-| ![Landing](readme/gif/update-item.gif) | ![fsdaf](readme/gif/delete-item.gif) |
+| ![Landing](readme/gif/update-item.gif) | ![fsdaf](readme/gif/delete-item3.gif) |
 
 <br><br>
 <img src="./readme/title7.svg"/>
