@@ -89,3 +89,59 @@ In my IoT project, I integrated an ESP8266 microcontroller to serve as the commu
 <img src="readme/Iotproject.jpg"/>
 <br><br>
 <img src="./readme/title10.svg"/>
+
+
+###  Precision in Development: Harnessing the Power of Unit Testing:
+
+- This project employs rigorous unit testing methodologies to ensure the reliability and accuracy of code components. By systematically evaluating individual units of the software, we guarantee a robust foundation, identifying and addressing potential issues early in the development process.
+
+<br><br>
+
+
+<!-- How to run -->
+<img src="./readme/title10.svg"/>
+
+> To set up Coffee Express locally, follow these steps:
+
+### Prerequisites
+
+1-Node.js & npm
+Ensure you have Node.js and npm installed on your system.
+Install npm globally if not already installed:
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+2-Flutter SDK
+Install the Flutter SDK and set it up by following the official guide:[Flutter Installation](https://flutter.dev/)
+
+3-MongoDB
+Install and run MongoDB locally or use a cloud database.
+
+4-Arduino IDE
+Download and install the Arduino IDE: Arduino IDE Download.[Arduino IDE Download.](https://www.arduino.cc/en/software)
+
+### Installation
+
+1. Get a free API Key at [open weather](https://openweathermap.org/api)
+2. Clone the repo
+   git clone [github](https://github.com/omar-albarakeh/SolarIQ.git)
+3. Set Up the React (Web)
+   ```sh
+   npm install
+   ```
+4. Set Up the Flutter (Mobile)
+   ```sh
+   flutter pub get
+   ```
+5.Configure the ESP8266
+Open the Arduino IDE and upload the code to the ESP8266.
+Update the Wi-Fi SSID and password in the code.
+Replace the server IP with your laptop's IP address.
+
+6.Update Flutter Configuration
+
+Update the API endpoints in your Flutter app to match:
+Your laptop's IP address for the backend services.
+The ESP8266's IP address for real-time communication.
+Ensure both the ESP8266 and your laptop are connected to the same Wi-Fi network.
