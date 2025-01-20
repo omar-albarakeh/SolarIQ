@@ -43,10 +43,10 @@
 
 - Flutter: [Flutter app development framework](https://flutter.dev/).A powerful app development framework used to build a dynamic, responsive, and visually appealing mobile application with seamless cross-platform performance.
 - Node.js with NestJS: [NestJS - A progressive Node.js framework](https://nestjs.com/) A progressive Node.js framework employed to develop a robust and scalable backend architecture, ensuring efficient API management, secure data handling, and well-structured business logic.
-- React: A flexible and efficient JavaScript library utilized to create a modern, interactive, and user-friendly web interface for enhanced user engagement.
-- MongoDB: A NoSQL database chosen for its scalability and flexibility, enabling efficient storage and management of solar energy data, user preferences, and real-time updates.
-- OpenWeather API: For providing weather-based energy forecasts to optimize solar energy usage.
-- Gemini AI: The core engine powering the AI solar advisor, delivering personalized energy insights, recommendations, and actionable strategies for maximizing solar efficiency.
+- React: [React Library](https://react.dev/)A flexible and efficient JavaScript library utilized to create a modern, interactive, and user-friendly web interface for enhanced user engagement.
+- MongoDB: [Mongo Database](https://www.mongodb.com/docs/) A NoSQL database chosen for its scalability and flexibility, enabling efficient storage and management of solar energy data, user preferences, and real-time updates.
+- OpenWeather API:[Weather provider](https://openweathermap.org/api) For providing weather-based energy forecasts to optimize solar energy usage.
+- Gemini AI:[Gemini AI](https://ai.google/discover/)  The core engine powering the AI solar advisor, delivering personalized energy insights, recommendations, and actionable strategies for maximizing solar efficiency.
 
 <br><br>
 
