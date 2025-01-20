@@ -41,10 +41,12 @@
 
 ### SOLARIQ is built using the following technologies:
 
-- Flutter: [Flutter app development framework](https://flutter.dev/).To develop a dynamic and responsive mobile application with seamless cross-platform performance.
-- Node.js with NestJS: [NestJS - A progressive Node.js framework](https://nestjs.com/) For a robust and scalable backend architecture, ensuring efficient API management and business logic.
+- Flutter: [Flutter app development framework](https://flutter.dev/).A powerful app development framework used to build a dynamic, responsive, and visually appealing mobile application with seamless cross-platform performance.
+- Node.js with NestJS: [NestJS - A progressive Node.js framework](https://nestjs.com/) A progressive Node.js framework employed to develop a robust and scalable backend architecture, ensuring efficient API management, secure data handling, and well-structured business logic.
+- React: A flexible and efficient JavaScript library utilized to create a modern, interactive, and user-friendly web interface for enhanced user engagement.
+- MongoDB: A NoSQL database chosen for its scalability and flexibility, enabling efficient storage and management of solar energy data, user preferences, and real-time updates.
 - OpenWeather API: For providing weather-based energy forecasts to optimize solar energy usage.
-- OpenAI API: To power the AI solar advisor, delivering personalized energy insights and recommendations.
+- Gemini AI: The core engine powering the AI solar advisor, delivering personalized energy insights, recommendations, and actionable strategies for maximizing solar efficiency.
 
 <br><br>
 
