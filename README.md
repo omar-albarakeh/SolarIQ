@@ -81,6 +81,9 @@ This JSON format presents a modular representation of MongoDB schemas, showcasin
 | ---| ---|
 | ![Landing](readme/gif/update-item.gif) | ![fsdaf](readme/gif/delete-item3.gif) |
 
-<img src="readme/IOT-project.png"/>
+### IoT project
+In my IoT project, I integrated an ESP8266 microcontroller to serve as the communication bridge between various components, leveraging the concept of WebSocket for real-time, bidirectional data exchange. A potentiometer was utilized to simulate the behavior of a solar panel, capturing wattage. I could control the flow of watts by adjusting the potentiometer, and this data was transmitted to my **SolarIQ** Flutter application instantly. Additionally, the project included a bidirectional communication setup, enabling my Flutter app to send control signals to a servo motor. The servo motor, equipped with an ultrasonic sensor, functioned as a radar system to detect and measure distances dynamically. By utilizing WebSocket technology, this project ensured seamless, low-latency communication between hardware and software, enabling efficient real-time monitoring and control to emulate a smart solar energy system.
+<br>
+<img src="readme/Iotproject.jpg"/>
 <br><br>
 <img src="./readme/title10.svg"/>
