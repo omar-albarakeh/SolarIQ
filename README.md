@@ -72,7 +72,7 @@ We designed SOLARIQ using wireframes and mockups, iterating on the design until 
 | Login screen  | Register screen |  
 | ---| ---|
 | ![Landing](readme/gif/loginscreen.gif) | ![fsdaf](readme/gif/signupscreen.gif) |
-| User-panel  |   Create-item |
+| User-panel  |  Create-item |
 | ---| ---|
 | ![Landing](readme/gif/user-panel.gif) | ![fsdaf](readme/gif/create-item.gif) |
 | Update-item | Delete-item |
@@ -80,7 +80,4 @@ We designed SOLARIQ using wireframes and mockups, iterating on the design until 
 | ![Landing](readme/gif/update-item.gif) | ![fsdaf](readme/gif/delete-item3.gif) |
 
 <br><br>
-<img src="./readme/title7.svg"/>
-<img src="./readme/title8.svg"/>
-<img src="./readme/title9.svg"/>
 <img src="./readme/title10.svg"/>
