@@ -90,18 +90,7 @@ In my IoT project, I integrated an ESP8266 microcontroller to serve as the commu
 <br><br>
 <img src="./readme/title10.svg"/>
 
-
-###  Precision in Development: Harnessing the Power of Unit Testing:
-
-- This project employs rigorous unit testing methodologies to ensure the reliability and accuracy of code components. By systematically evaluating individual units of the software, we guarantee a robust foundation, identifying and addressing potential issues early in the development process.
-
-<br><br>
-
-
-<!-- How to run -->
-<img src="./readme/title10.svg"/>
-
-> To set up Coffee Express locally, follow these steps:
+> To set up Solar-IQ locally, follow these steps:
 
 ### Prerequisites
 
