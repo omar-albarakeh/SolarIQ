@@ -88,6 +88,23 @@ In my IoT project, I integrated an ESP8266 microcontroller to serve as the commu
 <br>
 <img src="readme/Iotproject.jpg"/>
 <br><br>
+
+<!-- AWS Deployment -->
+<img src="./readme/title8.svg"/>
+
+### Deployment Description:
+
+- This project leverages AWS deployment strategies to seamlessly integrate and deploy the Solar-IQ backend.
+
+| Login API                        | Post like API           |
+| ----------------------------------- | ------------------------------- |
+| ![Login](./readme/images/Login.png) | ![adding-like](./readme/images/adding-like.png) |
+| Create ChatRoom API                     | Send Message API                          |
+| ![create-chatroom](./readme/images/create-chatroom.png)  | ![sending-message](./readme/images/sending-message.png)   |
+| Create Item API                     | Update Item API                          |
+| ![create-item](./readme/images/create-item.png)  | ![update-item](./readme/images/update-item.png)   |
+
+<br><br>
 <img src="./readme/title10.svg"/>
 
 > To set up Solar-IQ locally, follow these steps:
