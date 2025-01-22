@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/omar-albarakeh/nestjsmobile.git
+	url = https://github.com/omar-albarakeh/SolarIQ-Nestjs.git
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/omar-albarakeh/solariqflutter.git
