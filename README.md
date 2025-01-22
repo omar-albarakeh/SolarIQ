@@ -58,7 +58,7 @@ We designed SOLARIQ using wireframes and mockups, iterating on the design until 
 
 <img src="./readme/title5.svg"/>
 This JSON format presents a modular representation of MongoDB schemas, showcasing User, Cart, SolarInfo, and Item models with enhanced clarity, descriptions, and references for relationships
-<img src="readme/code.png"/>
+<img src="readme/schema.v1.png"/>
 <img src="./readme/title6.svg"/>
 
 ### User Screens (Mobile)
