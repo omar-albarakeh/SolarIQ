@@ -59,7 +59,7 @@ We designed SOLARIQ using wireframes and mockups, iterating on the design until 
 
 | Market screen                                | ChatBot Screen                                   | RealTime Screen                                  |
 | ------------------------------------------ | -------------------------------------------------------- |-------------------------------------------------------- |
-| ![Market](./readme/images/Market.png) | ![AI](./readme/images/AI.png) |![Realtime](./readme/images/Realtime.png) |
+| ![Market](./readme/images/market2.png) | ![AI](./readme/images/chatbot2.png) |![Realtime](./readme/images/realtime2.png) |
 
 <img src="./readme/title5.svg"/>
 This JSON format presents a modular representation of MongoDB schemas, showcasing User, Cart, SolarInfo, and Item models with enhanced clarity, descriptions, and references for relationships
