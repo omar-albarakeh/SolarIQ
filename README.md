@@ -55,6 +55,11 @@
 We designed SOLARIQ using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 
 - Project Figma design [figma](https://www.figma.com/design/5H9Fa6QPBZsvvb9nZchmTV/Untitled?t=n2Z8NsetSEEd6VQz-1)
+- ### Mockups
+
+| Market screen                                | ChatBot Screen                                   | RealTime Screen                                  |
+| ------------------------------------------ | -------------------------------------------------------- |-------------------------------------------------------- |
+| ![Market](./readme/figma/Market.png) | ![AI](./readme/figma/AI.png) |![Realtime](./readme/figma/Realtime.png) |
 
 <img src="./readme/title5.svg"/>
 This JSON format presents a modular representation of MongoDB schemas, showcasing User, Cart, SolarInfo, and Item models with enhanced clarity, descriptions, and references for relationships
