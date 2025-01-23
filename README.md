@@ -47,6 +47,9 @@
 - MongoDB: [Mongo Database](https://www.mongodb.com/docs/) A NoSQL database chosen for its scalability and flexibility, enabling efficient storage and management of solar energy data, user preferences, and real-time updates.
 - OpenWeather API:[Weather provider](https://openweathermap.org/api) For providing weather-based energy forecasts to optimize solar energy usage.
 - Gemini AI:[Gemini AI](https://ai.google/discover/)  The core engine powering the AI solar advisor, delivering personalized energy insights, recommendations, and actionable strategies for maximizing solar efficiency.
+- Arduino:[Arduino](https://docs.arduino.cc/)  is an open-source electronics platform based on easy-to-use hardware and software. It consists of a microcontroller that can be programmed to read inputs (e.g., sensor data) and control outputs (e.g., actuators, LEDs, motors). In the context of a solar energy system, Arduino can be used to collect real-time data from sensors (e.g., solar panel voltage, current, temperature) and control devices (e.g., relays, inverters).
+- ESP8266:[ESP8266](https://arduino-esp8266.readthedocs.io/en/latest/) is a low-cost Wi-Fi module with a full TCP/IP stack and microcontroller capability. It enables Arduino (or other microcontrollers) to connect to the internet, making it a key component for IoT applications. In this system, the ESP8266 acts as the bridge between the Arduino hardware and the web-based backend or frontend, allowing data to be transmitted over Wi-Fi for real-time monitoring and control.
+- WebSockets:[WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)is a communication protocol that provides full-duplex, real-time communication between a client (e.g., a web or mobile app) and a server. Unlike traditional HTTP requests, WebSockets maintain a persistent connection, enabling instant data exchange without the need for repeated polling. In this setup, WebSockets facilitate seamless communication between the Arduino-ESP8266 hardware and the backend/frontend systems, ensuring real-time updates (e.g., sensor data, weather conditions) and control commands (e.g., adjusting solar panel angles, turning devices on/off)
 
 <br><br>
 
@@ -55,15 +58,24 @@
 We designed SOLARIQ using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 
 - Project Figma design [figma](https://www.figma.com/design/5H9Fa6QPBZsvvb9nZchmTV/Untitled?t=n2Z8NsetSEEd6VQz-1)
+  <br>
 - ### Mockups
 
 | Market screen                                | ChatBot Screen                                   | RealTime Screen                                  |
 | ------------------------------------------ | -------------------------------------------------------- |-------------------------------------------------------- |
 | ![Market](./readme/images/market2.png) | ![AI](./readme/images/chatbot2.png) |![Realtime](./readme/images/realtime2.png) |
+<br><br>
+
 
 <img src="./readme/title5.svg"/>
-This JSON format presents a modular representation of MongoDB schemas, showcasing User, Cart, SolarInfo, and Item models with enhanced clarity, descriptions, and references for relationships
-<img src="readme/schema.v1.png"/>
+This JSON format presents a modular representation of MongoDB schemas, showcasing User, Cart, SolarInfo, Item, and Weather models. Each schema is designed with enhanced clarity, descriptions, and references to establish relationships between collections. This structure ensures efficient data management and scalability for a solar energy management system. <br>
+
+
+| Backend Schema                              | Weather Schema                                   | 
+| ------------------------------------------ | -------------------------------------------------------- |
+| ![Market](./readme/schema.v1.png) | ![AI](./readme/schema.code3.png) |
+
+
 <img src="./readme/title6.svg"/>
 
 ### User Screens (Mobile)
