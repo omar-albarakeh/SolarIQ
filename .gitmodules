@@ -10,3 +10,6 @@
 [submodule "SolarIQ-Esp8266"]
     path = SolarIQ-Esp8266
     url = https://github.com/omar-albarakeh/SolarIQ-Esp8266.git
+[submodule "path/to/desired-folder"]
+	path = path/to/desired-folder
+	url = https://github.com/omar-albarakeh/solariqflutter.git
