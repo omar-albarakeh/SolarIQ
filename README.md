@@ -73,7 +73,7 @@ This JSON format presents a modular representation of MongoDB schemas, showcasin
 
 | Backend Schema                              | Weather Schema                                   | 
 | ------------------------------------------ | -------------------------------------------------------- |
-| ![Market](./readme/schema.v1.png) | ![AI](./readme/schema.code3.png) |
+| ![Backend Schema ](./readme/schema.v1.png) | ![Weather Schema](./readme/code3.png) |
 
 
 <img src="./readme/title6.svg"/>
@@ -105,7 +105,13 @@ In my IoT project, I integrated an ESP8266 microcontroller to serve as the commu
 <br>
 <img src="readme/Iotproject.jpg"/>
 <br><br>
+<br><br>
+<img src="./readme/title7.svg"/>
+### Solar-IQ: Solar-Energy-Recommender:
 
+- This project leverages Gemini AI, a cutting-edge artificial intelligence engine, combined with advanced prompt engineering techniques, to deliver highly personalized and actionable recommendations for solar energy systems. By understanding user inputs such as budget, energy needs, location, and preferences, SolarIQ generates tailored suggestions that align with individual requirements.
+
+<img src="readme/prompt.jpg"/>
 <!-- AWS Deployment -->
 <img src="./readme/title8.svg"/>
 
