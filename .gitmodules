@@ -13,3 +13,6 @@
 [submodule "path/to/desired-folder"]
 	path = path/to/desired-folder
 	url = https://github.com/omar-albarakeh/solariqflutter.git
+[submodule "solariqflutter"]
+	path = solariqflutter
+	url = https://github.com/omar-albarakeh/solariqflutter.git
