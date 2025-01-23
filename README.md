@@ -111,7 +111,7 @@ In my IoT project, I integrated an ESP8266 microcontroller to serve as the commu
 
 - This project leverages Gemini AI, a cutting-edge artificial intelligence engine, combined with advanced prompt engineering techniques, to deliver highly personalized and actionable recommendations for solar energy systems. By understanding user inputs such as budget, energy needs, location, and preferences, SolarIQ generates tailored suggestions that align with individual requirements.
 
-<img src="readme/prompt.jpg"/>
+<img src="readme/prompt.png"/>
 <!-- AWS Deployment -->
 <img src="./readme/title8.svg"/>
 
